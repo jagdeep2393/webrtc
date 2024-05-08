@@ -2,7 +2,8 @@
     position: fixed;
     bottom: 10px;
     right: 30px;
-    height: 150px;
     width: 200px;
     z-index: 99;
+    border-radius: 5px;
+    align-content: center;
 }
